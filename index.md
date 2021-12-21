@@ -4,7 +4,6 @@
    <html>
 
   <title>Относительная ссылка</title>
- </head>
  <body>
   <p><a href="file:///C:/Users/187/Desktop/CounterStrike_Global_Offensive.htm">Главная</a></p>
   <p><a href="">Контакты:</a></p>
@@ -12,9 +11,6 @@
   <p><a href="https://vk.com/kseilons">Красавчик!</a></p
   <p><a href="https://vk.com/your6_9love">Рекламодатель</a></p>
   <p><a href="https://yandex.ru/games/">Игры</a></p>
-
-    
-</html>
   <style>
     p {
             text-align: justify;
@@ -78,9 +74,6 @@
         }
         
   </style>
-</head>
-<html>
-
 
   <BODY>
   
